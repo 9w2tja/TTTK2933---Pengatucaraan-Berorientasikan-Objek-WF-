@@ -1,4 +1,8 @@
-# Lab 2A : Aunty Anne New Kiosk
+# Lab 2
+- Aunty Anne New Kiosk
+- Spare Me Some Change
+- Secret Message
+
 TTTK2933 - Pengatucaraan Berorientasikan Objek (WF)
 Fakulti Teknologi & Sains Maklumat (FTSM)
 Universiti Kebangsaan Malaysia (UKM)
